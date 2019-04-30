@@ -1,0 +1,28 @@
+{
+  "name": "thanos-snap-google",
+  "version": "1.0.0",
+  "description": "Search animation for thanos snap",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leefrost/thanos-snap-google.git"
+  },
+  "keywords": [
+    "animation",
+    "js",
+    "thanos",
+    "google"
+  ],
+  "author": "Sergii Lischuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leefrost/thanos-snap-google/issues"
+  },
+  "homepage": "https://github.com/Leefrost/thanos-snap-google#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
