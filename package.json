@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/Leefrost/thanos-snap-google#readme",
   "dependencies": {
+    "html2canvas": "^1.0.0-rc.1",
     "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {
+    "sass": "^1.19.0"
   }
 }
